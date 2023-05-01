@@ -1,16 +1,14 @@
-### Hi there 👋
+ABOUT ME
 
-<!--
-**TshepiMore/TshepiMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am self-motivated, reliable, responsible and hard working person. I
+am a mature team worker and adaptable to all challenging
+situations. I am able to work well both in a team environment as
+well as using own initiative. I am able to work well under pressure
+and adhere to strict deadlines.
 
-Here are some ideas to get you started:
+EXPERIENCE
+I have experience in Mining Industry with Skills in Underground General Worker, Engineering Construction Worker and Rigging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SKILLS
+Also have Skills in HTML, CSS, JAVASCRIPT, SCRATCH AND FIGMA aswell as using GITHUB.
+My intrests are Playing Soccer, Cycling, Hiking and doing a lot of Travelling
